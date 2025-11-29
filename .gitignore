@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# Docker logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
