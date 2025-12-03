@@ -1,4 +1,4 @@
-using CNO.Infrastructure.Persistance;
+using CNO.Data;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 

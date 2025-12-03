@@ -1,7 +1,7 @@
-﻿using CNO.Domain.Entities;
+﻿using CNO.Models.Metric;
 using Microsoft.EntityFrameworkCore;
 
-namespace CNO.Infrastructure.Persistance
+namespace CNO.Data
 {
     public class TelemetryDbContext : DbContext
     {

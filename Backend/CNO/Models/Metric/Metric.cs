@@ -1,4 +1,4 @@
-﻿namespace CNO.Domain.Entities
+﻿namespace CNO.Models.Metric
 {
     public class Metric
     {
