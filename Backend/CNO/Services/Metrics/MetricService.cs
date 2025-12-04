@@ -4,7 +4,7 @@ using CNO.Repository.Interfaces;
 using CNO.Services.Interfaces;
 using System.Text.Json;
 
-namespace CNO.Services
+namespace CNO.Services.Metrics
 {
     public class MetricService : IMetricService
     {

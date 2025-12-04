@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\metrics\\handlers\\getmetricsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\metrics\\handlers\\getmetricsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\metrics\\handlers\\getmetricsbyservicequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\metrics\\handlers\\getmetricsbyservicequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\services\\metricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:services\\metricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\dto\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\dto\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\services\\interfaces\\imetricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:services\\interfaces\\imetricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\domain\\entities\\metric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:domain\\entities\\metric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\repository\\metricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:repository\\metricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\metrics\\queries\\getmetricsbyservicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\metrics\\queries\\getmetricsbyservicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\repository\\interfaces\\imetricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:repository\\interfaces\\imetricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\infrastructure\\persistance\\metricreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:infrastructure\\persistance\\metricreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\metrics\\interfaces\\imetricreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\metrics\\interfaces\\imetricreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\application\\metrics\\queries\\getmetricquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:application\\metrics\\queries\\getmetricquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|c:\\users\\gumed\\source\\cno\\backend\\cno\\models\\dto\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6515680-D01A-4FE9-A564-2855B8603B4A}|CNO.csproj|solutionrelative:models\\dto\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 300,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetMetricsByServiceQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Handlers\\GetMetricsByServiceQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Metrics\\Handlers\\GetMetricsByServiceQueryHandler.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Handlers\\GetMetricsByServiceQueryHandler.cs",
-              "RelativeToolTip": "Application\\Metrics\\Handlers\\GetMetricsByServiceQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:14:17.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Metric.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Domain\\Entities\\Metric.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Metric.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Domain\\Entities\\Metric.cs",
-              "RelativeToolTip": "Domain\\Entities\\Metric.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:04:04.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:55:44.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MetricReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Infrastructure\\Persistance\\MetricReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistance\\MetricReadRepository.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Infrastructure\\Persistance\\MetricReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistance\\MetricReadRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:55:11.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetMetricsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Handlers\\GetMetricsQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Metrics\\Handlers\\GetMetricsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Handlers\\GetMetricsQueryHandler.cs",
-              "RelativeToolTip": "Application\\Metrics\\Handlers\\GetMetricsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "MetricsController.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Controllers\\MetricsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetricsController.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Controllers\\MetricsController.cs",
+              "RelativeToolTip": "Controllers\\MetricsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:54:25.567Z",
+              "WhenOpened": "2025-12-03T20:37:31.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMetricReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Interfaces\\IMetricReadRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Metrics\\Interfaces\\IMetricReadRepository.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Interfaces\\IMetricReadRepository.cs",
-              "RelativeToolTip": "Application\\Metrics\\Interfaces\\IMetricReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MetricService.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Services\\MetricService.cs",
+              "RelativeDocumentMoniker": "Services\\MetricService.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Services\\MetricService.cs",
+              "RelativeToolTip": "Services\\MetricService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:53:53.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetMetricsByServiceQuery.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Queries\\GetMetricsByServiceQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Metrics\\Queries\\GetMetricsByServiceQuery.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Queries\\GetMetricsByServiceQuery.cs",
-              "RelativeToolTip": "Application\\Metrics\\Queries\\GetMetricsByServiceQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:52:15.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetMetricQuery.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Queries\\GetMetricQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Metrics\\Queries\\GetMetricQuery.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\Metrics\\Queries\\GetMetricQuery.cs",
-              "RelativeToolTip": "Application\\Metrics\\Queries\\GetMetricQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:50:54.473Z",
+              "WhenOpened": "2025-12-03T20:36:00.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IMetricService.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Services\\Interfaces\\IMetricService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMetricService.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Services\\Interfaces\\IMetricService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMetricService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:35:36.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetricRepo.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Repository\\MetricRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\MetricRepo.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Repository\\MetricRepo.cs",
+              "RelativeToolTip": "Repository\\MetricRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:34:49.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMetricRepo.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Repository\\Interfaces\\IMetricRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IMetricRepo.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Repository\\Interfaces\\IMetricRepo.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IMetricRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:34:18.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MetricDto.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\DTO\\MetricDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\MetricDto.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Application\\DTO\\MetricDto.cs*",
-              "RelativeToolTip": "Application\\DTO\\MetricDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Models\\DTO\\MetricDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\MetricDto.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\CNO\\Backend\\CNO\\Models\\DTO\\MetricDto.cs",
+              "RelativeToolTip": "Models\\DTO\\MetricDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T16:43:05.421Z",
               "EditorCaption": ""

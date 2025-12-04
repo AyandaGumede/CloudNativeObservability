@@ -3,7 +3,7 @@ using CNO.Models.Metric;
 using CNO.Repository.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace CNO.Repository
+namespace CNO.Repository.Metrics
 {
     public class MetricRepository : IMetricRepository
     {
