@@ -1,7 +1,7 @@
-﻿using CNO.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using CNO.Data;
 using CNO.Models.Logs;
 using CNO.Repository.Interfaces;
-using Microsoft.EntityFrameworkCore;
 
 namespace CNO.Repository.Logs
 {
@@ -20,7 +20,7 @@ namespace CNO.Repository.Logs
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<LogEntry>> GetLogsAsync(string? service = null, string? level = null)
+        public async Task<IEnumerable<LogEntry>> GetLogsAsync(string? service = null, string? level = null, DateTime? from = null, DateTime? to = null)
         {
             var query = _context.Logs.AsQueryable();
 
@@ -30,7 +30,18 @@ namespace CNO.Repository.Logs
             if (!string.IsNullOrEmpty(level))
                 query = query.Where(l => l.Level == level);
 
-            return await query.ToListAsync();
+            if (from.HasValue)
+                query = query.Where(l => l.Time >= from.Value);
+
+            if (to.HasValue)
+                query = query.Where(l => l.Time <= to.Value);
+
+            return await query.OrderByDescending(l => l.Time).ToListAsync();
+        }
+
+        public async Task<LogEntry?> GetLogByIdAsync(Guid id)
+        {
+            return await _context.Logs.AsNoTracking().FirstOrDefaultAsync(l => l.Id == id);
         }
     }
 }
