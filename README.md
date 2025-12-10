@@ -31,4 +31,4 @@ Docker, Kubernetes, CI/CD
 
 <b>Status🟢</b>
 
-Work in progress. Architecture and service boundaries defined; implementation ongoing.
+Work in progress. Architecture and service boundaries defined; implementation ongoing. Expected to be completed by March 2026
