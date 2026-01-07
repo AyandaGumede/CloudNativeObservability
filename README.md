@@ -19,9 +19,8 @@ Containerized microservices (Docker / Kubernetes ready)
 
 <b>Tech Stack</b>
 
-.NET / Node / Go microservices
-
-React + Tailwind dashboard
+React + Tailwind 
+ASP.NET
 
 PostgreSQL / TimescaleDB
 
