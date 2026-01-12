@@ -15,18 +15,21 @@ API gateway for unified access
 
 React dashboard for real-time visualization
 
-Containerized microservices (Docker / Kubernetes ready)
+Containerized microservices 
 
 <b>Tech Stack</b>
 
-React + Tailwind 
-ASP.NET
+React - UI
 
-PostgreSQL / TimescaleDB
+Redux - State
 
-Redis / Kafka (optional)
+ASP.NET - Services
 
-Docker, Kubernetes, CI/CD
+PostgreSQL / TimescaleDB - Database
+
+Redis - Cache
+
+Docker, Kubernetes - CI/CD
 
 <b>Status🟢</b>
 
